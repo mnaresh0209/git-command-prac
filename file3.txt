@@ -1,2 +1,3 @@
 this is file3
 new line added in file3 ignore files
+new line main
